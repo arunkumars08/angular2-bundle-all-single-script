@@ -1,0 +1,1 @@
+# angular2-bundle-all-single-script
