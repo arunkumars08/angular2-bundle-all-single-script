@@ -108,7 +108,6 @@ gulp
 
  - Update Readme for vendor bundling
  - Update gulp for effective vendor bundling
- - Update author information
 
 License
 ----
