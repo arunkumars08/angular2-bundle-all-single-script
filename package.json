@@ -1,0 +1,41 @@
+{
+  "name": "arunkumar",
+  "version": "1.0.0",
+  "description": "This bundles all angular2 related components, directives, services, css, htmls into a single js file",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkumars08/angular2-bundle-all-single-script.git"
+  },
+  "keywords": [
+    "angular2",
+    "bundle",
+    "angular2-single-file-bundle",
+    "angular2-js",
+    "gulpangular"
+  ],
+  "dependencies": {
+    "gulp-angular-embed-templates": "2.3.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-typescript": "^2.13.0",
+    "systemjs-builder": "^0.15.16",
+    "gulp-angular2-embed-sass": "0.2.0"
+  },
+  "author": "Arunkumar Srisailapathi <sail.arunkumar@gmail.com>",
+  "contributors": [{
+    "name": "Sudarshanam",
+    "email": "nsudharrao90@gmail.com"
+  },
+  {
+    "name": "Mageshwaran Rajendran",
+    "email": ""
+  }],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkumars08/angular2-bundle-all-single-script/issues"
+  },
+  "homepage": "https://github.com/arunkumars08/angular2-bundle-all-single-script#readme"
+}
